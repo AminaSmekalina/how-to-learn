@@ -71,7 +71,7 @@
   z-index: 1;
 }
 
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
+
 .header__square-pic {
   position: absolute;
   height: 568px;
@@ -325,7 +325,7 @@ h3 {
 .footer__author {
   line-height: 25px;
   font-size: 18px;
-  margin: 0; 18px; 0
+  margin: 0; 18px; 0;
   color:  color: white;
 }
 
