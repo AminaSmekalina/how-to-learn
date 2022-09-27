@@ -1,9 +1,10 @@
-.oakley{
-    display: flex;
-    width: 80%;
-    background-color: #f2f2f2;
-    padding-top: 160px;
-    padding-left: 160px;
-    padding-right: 160px;
-    margin: 0;
-  }
+.oakley {
+  display: flex;
+  width: 80%;
+  background-color: #f2f2f2;
+  padding-top: 160px;
+  padding-bottom: 0;
+  padding-left: 135px;
+  padding-right: 135px;
+  margin: 0;
+}

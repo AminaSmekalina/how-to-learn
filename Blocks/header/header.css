@@ -7,4 +7,5 @@
     max-height: 756px;
     height: 100vh;
     overflow: hidden;
+    overflow-x: hidden;
   }
