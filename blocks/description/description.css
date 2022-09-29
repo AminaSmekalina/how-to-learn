@@ -1,6 +1,6 @@
 .description {
   display: flex;
-  width: 80%;
+  justify-content: center;
   background-color: white;
   margin-bottom: 0px;
   padding-top: 100px;

@@ -1,11 +1,11 @@
 .header {
-    display: flex;
-    position: relative;
-    align-items: center;
-    background-color: #f2f2f2;
-    min-height: 600px;
-    max-height: 756px;
-    height: 100vh;
-    overflow: hidden;
-    overflow-x: hidden;
-  }
+  display: flex;
+  position: relative;
+  align-items: center;
+  background-color: #f2f2f2;
+  min-height: 600px;
+  max-height: 756px;
+  height: 100vh;
+  overflow: hidden;
+  overflow-x: hidden;
+}
